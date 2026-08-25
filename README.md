@@ -1,5 +1,8 @@
 # airbnb-pricing-analysis
 Airbnb pricing analysis using Python and Tableau to explore how room type, property size, guest capacity, bedrooms, property type, and location influence nightly prices.
+## Interactive Dashboard
+View the interactive dashboard on Tableau Public: https://public.tableau.com/app/profile/mithali.killekar/viz/AirBNB_17876552053020/Dashboard1?publish=yes
+
 # Airbnb Pricing Analysis
 
 ## Project Overview
